@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654510001308",
+    "project_id": "jaskecommerce",
+    "storage_bucket": "jaskecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654510001308:android:21cfa8298bde1a89007159",
+        "android_client_info": {
+          "package_name": "com.jaskEcommerce_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654510001308-750pkv09mvvhih2mo5abqcl8io019o73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2cDdzPB_Ho8Kv1kFAWIeIpOMw7X80LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654510001308-750pkv09mvvhih2mo5abqcl8io019o73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
