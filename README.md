@@ -52,7 +52,7 @@ Here are some Illustration of App Screens
 | :--------------------------------------: | :--------------------------------------: | :-------------------------------------: |
 |        Product Details Screen - 1        |        Product Details Screen - 2        |        Category Products Screen         |
 
-| ![](illustrations/manage_addresses(2).png) | ![](illustrations/address_dialog.png) | ![](illustrations/cart.png) |
+| ![](illustrations/manage_addresses.png) | ![](illustrations/address_dialog.png) | ![](illustrations/cart.png) |
 | :-------------------------------------: | :-----------------------------------: | :-------------------------: |
 |         Manage Addresses Screen         |            Address Dialog             |         Cart Screen         |
 
@@ -76,8 +76,7 @@ And all rest at [more screens](illustrations/)
 
 ## :white_check_mark: Installation
 
-Download the APK File from GDrive Link: [EShopee](https://drive.google.com/file/d/1lbUD13OZmXLbSPXrFJuGGDQxO3elqVBF/view?usp=sharing)\
-Sign up, Sign in and Explore the App. And do not forget to add your own products
+
 
 ## :rocket: Resources
 
